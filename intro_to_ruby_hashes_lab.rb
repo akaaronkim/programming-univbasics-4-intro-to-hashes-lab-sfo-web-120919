@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  { hash: 'house'}
+  { name: 'Grasshopper'}
 end
 
 def id_generator
