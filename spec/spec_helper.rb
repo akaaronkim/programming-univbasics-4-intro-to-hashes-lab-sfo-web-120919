@@ -1,11 +1,5 @@
-require 'yaml'
-
-RSpec.configure do |config|
-
-  def new_hash 
-    { }
-  
-  end
-
+def new_hash
+  {}
 end
+
 
